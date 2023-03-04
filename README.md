@@ -11,7 +11,7 @@ https://gitpod.io/#https://github.com/Code4Yokohama/frictionless-handson
 $ pipenv sync
 ```
 
-必要なpythonのバージョンが未インストールの場合には、自動でインストールできるので、Yesを選択しましょう。
+必要なpythonのバージョンが未インストールの場合には、インストールするかどうか聞いてくるので、Yesを選択しましょう。
 
 ## 仮想環境に入る
 
